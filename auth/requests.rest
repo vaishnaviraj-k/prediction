@@ -1,0 +1,34 @@
+POST http://localhost:4000/posts
+Content-Type: application/json
+
+{
+    "name" : "shresta",
+    "mail": "shresta@sixpep.com",
+    "pass": "password"
+}
+
+###
+
+POST http://localhost:4000/posts
+Content-Type: application/json
+
+{
+    "name" : "Vaishnavi Raj",
+    "mail": "vaishnaviraj@sixpep.com",
+    "pass": "password"
+}
+
+###
+
+POST http://localhost:4000/posts
+Content-Type: application/json
+
+{
+    "name" : "Vaishnavi Raj",
+    "mail": "vaishnaviraj@sixpep.com",
+    "pass": "password"
+}
+ ###
+
+
+

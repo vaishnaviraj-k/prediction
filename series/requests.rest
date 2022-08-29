@@ -1,0 +1,23 @@
+POST http://localhost:4000/players
+Content-Type: application/json
+
+{
+    "name" : "shresta",
+    "nationality": "India",
+    "role": "abc"
+}
+
+###
+
+POST http://localhost:4000/players
+Content-Type: application/json
+
+{
+    "name" : "Vaishnavi Raj",
+    "nationality": "French",
+    "role": "xyz"
+}
+
+###
+
+
